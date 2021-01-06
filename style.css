@@ -1,16 +1,17 @@
-body {
+body{
   margin: 0;
   font-family: 'Poppins', sans-serif;
 }
 
-h1 {
+h1{
   font-size: 50px;
 }
+
 .orange-highlight {
   color: orange;
 }
 
-p {
+p{
   color: dimgray;
   text-align: justify;
 }
@@ -25,7 +26,8 @@ p {
 .half-width img {
   width: 100%;
 }
-.link-button {
+
+link-button {
   text-decoration: none;
   padding: 10px 20px;
   background-color: salmon;
@@ -39,7 +41,6 @@ p {
 .top-section {
   background-image: url("images/top-banner.png");
   background-repeat: no-repeat;
-  
 }
 
 section {
@@ -52,7 +53,6 @@ section {
   background-image: url("images/dream-bg.png");
   background-repeat: no-repeat;
   background-position: right;
-  
 }
 
 .experience-area {
